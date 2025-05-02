@@ -1,0 +1,14 @@
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\bin\Debug\net8.0\ThreadManager.exe
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\bin\Debug\net8.0\ThreadManager.deps.json
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\bin\Debug\net8.0\ThreadManager.runtimeconfig.json
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\bin\Debug\net8.0\ThreadManager.dll
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\bin\Debug\net8.0\ThreadManager.pdb
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\ThreadManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\ThreadManager.AssemblyInfoInputs.cache
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\ThreadManager.AssemblyInfo.cs
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\ThreadManager.csproj.CoreCompileInputs.cache
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\ThreadManager.dll
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\refint\ThreadManager.dll
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\ThreadManager.pdb
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\ThreadManager.genruntimeconfig.cache
+C:\Users\Renan\RiderProjects\ThreadManager\ThreadManager\obj\Debug\net8.0\ref\ThreadManager.dll

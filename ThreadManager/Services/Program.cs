@@ -3,6 +3,7 @@
 public class Program
 {
     private static readonly object lockObject = new object();
+    
     static void ThreadManager(int id)
     {
         lock (lockObject)

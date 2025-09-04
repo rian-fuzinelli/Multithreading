@@ -1,1 +1,1 @@
-A multi-threading project based on the concept
+This repository is dedicated to the study of multithreading.
